@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/FakerFAME/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/FakerFAME/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/FakerFAME/leetcode/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/FakerFAME/leetcode/tree/master/0812-largest-triangle-area) |
 | [2485-find-the-pivot-integer](https://github.com/FakerFAME/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FakerFAME/leetcode/tree/master/0011-container-with-most-water) |
+| [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/FakerFAME/leetcode/tree/master/0812-largest-triangle-area) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/FakerFAME/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/FakerFAME/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/FakerFAME/leetcode/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
 ## Sorting
 |  |
 | ------- |
@@ -53,9 +56,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/FakerFAME/leetcode/tree/master/0812-largest-triangle-area) |
 ## Polygons
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/FakerFAME/leetcode/tree/master/0812-largest-triangle-area) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
