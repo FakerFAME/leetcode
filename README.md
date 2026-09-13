@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/FakerFAME/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/FakerFAME/leetcode/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/FakerFAME/leetcode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/FakerFAME/leetcode/tree/master/0812-largest-triangle-area) |
 | [2485-find-the-pivot-integer](https://github.com/FakerFAME/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/FakerFAME/leetcode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/FakerFAME/leetcode/tree/master/0812-largest-triangle-area) |
 ## Polygons
 |  |
