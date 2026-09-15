@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/FakerFAME/leetcode/tree/master/0812-largest-triangle-area) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/FakerFAME/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/FakerFAME/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FakerFAME/leetcode/tree/master/0011-container-with-most-water) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/FakerFAME/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FakerFAME/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
+## Binary Search
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/FakerFAME/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
