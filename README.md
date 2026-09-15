@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/FakerFAME/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/FakerFAME/leetcode/tree/master/0013-roman-to-integer) |
 | [0214-shortest-palindrome](https://github.com/FakerFAME/leetcode/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/FakerFAME/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FakerFAME/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/FakerFAME/leetcode/tree/master/0011-container-with-most-water) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FakerFAME/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/FakerFAME/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FakerFAME/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/FakerFAME/leetcode/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/FakerFAME/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -97,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/FakerFAME/leetcode/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/FakerFAME/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Manacher
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/FakerFAME/leetcode/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/FakerFAME/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -109,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/FakerFAME/leetcode/tree/master/0214-shortest-palindrome) |
+## Palindromic Tree
+|  |
+| ------- |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/FakerFAME/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 <!---LeetCode Topics End-->
