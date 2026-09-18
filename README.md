@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/FakerFAME/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/FakerFAME/leetcode/tree/master/0013-roman-to-integer) |
 | [0214-shortest-palindrome](https://github.com/FakerFAME/leetcode/tree/master/0214-shortest-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/FakerFAME/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/FakerFAME/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FakerFAME/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FakerFAME/leetcode/tree/master/0011-container-with-most-water) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/FakerFAME/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/FakerFAME/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FakerFAME/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
@@ -62,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/FakerFAME/leetcode/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/FakerFAME/leetcode/tree/master/0149-max-points-on-a-line) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FakerFAME/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/FakerFAME/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/FakerFAME/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/FakerFAME/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
