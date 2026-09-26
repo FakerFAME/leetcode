@@ -141,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FakerFAME/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/FakerFAME/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
