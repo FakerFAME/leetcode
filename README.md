@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/FakerFAME/leetcode/tree/master/0013-roman-to-integer) |
 | [0214-shortest-palindrome](https://github.com/FakerFAME/leetcode/tree/master/0214-shortest-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/FakerFAME/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/FakerFAME/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/FakerFAME/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FakerFAME/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -152,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/FakerFAME/leetcode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/FakerFAME/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/FakerFAME/leetcode/tree/master/0196-delete-duplicate-emails) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/FakerFAME/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/FakerFAME/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
