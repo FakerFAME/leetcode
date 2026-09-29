@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/FakerFAME/leetcode/tree/master/0010-regular-expression-matching) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FakerFAME/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FakerFAME/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FakerFAME/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FakerFAME/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/FakerFAME/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FakerFAME/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/FakerFAME/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FakerFAME/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,8 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/FakerFAME/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FakerFAME/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/FakerFAME/leetcode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FakerFAME/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
